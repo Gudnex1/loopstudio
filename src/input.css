@@ -11,10 +11,9 @@
   background-repeat: no-repeat;
 }
 @media (max-width: 576px) {
-    #hero {
-        background-image: url("../images/desktop/image-hero.jpg");
-    }
+  #hero {
+    background-image: url("./images/desktop/image-hero.jpg");
   }
-  .bg {
-    
-  }
+}
+.bg {
+}
